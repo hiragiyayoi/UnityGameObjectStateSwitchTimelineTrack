@@ -1,0 +1,2 @@
+# UnityGameObjectStateSwitchTimelineTrack
+Unitiyタイムラインにて任意のゲームオブジェクトをアクティブ非アクティブとして切り替えるトラックのサンプルプロジェクトです．
