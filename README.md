@@ -13,7 +13,7 @@ Unitiyタイムラインにて任意のゲームオブジェクトをアクテ�
 
 
 # インストール方法
-1. Releasesより最新のUnityPackagesをダウンロードする．
+1. [Releases](https://github.com/hiragiyayoi/UnityGameObjectStateSwitchTimelineTrack/releases)より最新のUnityPackagesをダウンロードする．
 2. Asset > Import Pakages > Custom Pakege より1のパッケージをインポートする．
 3. UnityEditorを再起動する．
 4. AssetフォルダにCustomTimelineフォルダが生成されていることを確認する．
