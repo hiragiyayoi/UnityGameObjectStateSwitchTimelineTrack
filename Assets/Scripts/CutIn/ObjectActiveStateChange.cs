@@ -29,7 +29,7 @@ public class GameObjectStateSwitchTrack : TrackAsset //トラックのInspector�
 
 public class CustomClip : PlayableAsset, ITimelineClipAsset //クリップのInspector設定
 {
-    public ClipCaps clipCaps{ get { return ClipCaps.None; } }
+    public ClipCaps clipCaps => ClipCaps.None;
     
     public GameObjectState _GameObjectState;
     public enum GameObjectState //stringと同様の扱い
